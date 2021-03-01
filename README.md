@@ -7,6 +7,8 @@ setxkbmap us -variant colemak
 
 ## Change Capslock to Left Control
 
+setxkbmap -option ctrl:nocaps
+
 ## Config Alt+H,N,E,I to be Left Down Up Right Arrows
 
 ## Config Alt+O to be Delete word
