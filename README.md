@@ -3,6 +3,8 @@ Steps to create Linux development environment with Colemake layout
 
 ## Add Colemak keyboard
 
+setxkbmap us -variant colemak
+
 ## Change Capslock to Left Control
 
 ## Config Alt+H,N,E,I to be Left Down Up Right Arrows
