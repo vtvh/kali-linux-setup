@@ -4,7 +4,7 @@ Steps to create Linux development environment with Colemake layout
 
 ## run this script
 ```sh
-mkdir _workspace && cd _workspace
+mkdir ~/_workspace && cd ~/_workspace
 git clone https://github.com/vtvh/linux-setup-colemak
 ```
 
