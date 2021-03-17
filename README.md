@@ -1,5 +1,10 @@
-# linux-setup-colemak
-Steps to create Linux development environment with Colemake layout
+# linux-setup-colemak-kali
+Steps to create Linux development environment with Colemake layout on kali linux
+
+## setup keyboard (colemak)
+
+## install snap
+https://snapcraft.io/docs/installing-snap-on-kali
 
 ## setup ssh key
 `ssh-keygen -t rsa -b 4096`
