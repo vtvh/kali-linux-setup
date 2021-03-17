@@ -2,12 +2,14 @@
 Steps to create Linux development environment with Colemake layout
 
 ## setup ssh key
-ssh-keygen -t rsa -b 4096
+`ssh-keygen -t rsa -b 4096`
 _copy generated key to github https://github.com/settings/keys_
 
 ## run this script
 ```sh
 sudo apt install snapd
+sudo snap install chromium
+sudo snap install code --classic
 mkdir ~/_workspace && cd ~/_workspace
 #git clone https://github.com/vtvh/linux-setup-colemak
 #git clone https://github.com/vtvh/mysettings
