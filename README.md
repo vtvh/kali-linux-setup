@@ -1,7 +1,11 @@
 # linux-setup-colemak-kali
-Steps to create Linux development environment with Colemake layout on kali linux
+Steps by steps to create Linux development environment with Colemak keyboard layout on Kali Linux
 
 ## setup keyboard (colemak)
+```
+setxkbmap us -variant colemak
+setxkbmap -option ctrl:nocaps
+```
 
 ## install snap
 https://snapcraft.io/docs/installing-snap-on-kali
