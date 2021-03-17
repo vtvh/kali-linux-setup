@@ -3,7 +3,7 @@ Steps to create Linux development environment with Colemake layout
 
 ## setup ssh key
 ssh-keygen -t rsa -b 4096
-### copy generated key to github https://github.com/settings/keys
+_copy generated key to github https://github.com/settings/keys_
 
 ## run this script
 ```sh
